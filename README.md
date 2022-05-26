@@ -1,7 +1,7 @@
 # Music Bot
 
 <a href="https://discord.gg/2UqNedgcWd"><img src="https://img.shields.io/discord/332877090003091456?color=7289da&logo=discord&logoColor=white" alt="Discord server" /></a>
-<a href="https://discord.com/oauth2/authorize?client_id=843818831914860595permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Rising%20Up%230606&plastic&color=7289DA&logo=discord"></a>
+<a href="https://discord.com/oauth2/authorize?client_id=843818831914860595permissions=53857345&scope=bot"><img src="https://img.shields.io/static/v1?label=Invite%20Me&message=Rising%20Up%232683&plastic&color=7289DA&logo=discord"></a>
 <a href="https://github.com/zhycorp/music-bot-example/actions?query=workflow%3A%22Node.js+CI%22"><img src="https://github.com/zhycorp/music-bot-example/workflows/Node.js%20CI/badge.svg" alt="Node.JS CI Status" /></a>
 <img src="https://badgen.net/badge/icon/typescript?icon=typescript&label">
 <img src="https://badgen.net/badge/jual/haram/red">
@@ -9,8 +9,6 @@
 ## Usage
 
 **Requires [Node.JS](https://nodejs.org) version v12.9.0 or above.**
-
-[Come here](https://github.com/zhycorp/disc-11#Glitch) if you want to use Glitch.com instead of localhost or [Heroku](https://heroku.com/deploy?template=https://github.com/zhycorp/disc-11/tree/master)
 
 1. Install [Node.JS](https://nodejs.org) and [Yarn (Optional)](https://yarnpkg.com)
 2. Rename `.env.schema` to `.env` and fill out the values (example on .env.example)
@@ -89,5 +87,3 @@ $ docker-compose up
 - Configurable (easy to use)
 - Docker-friendly (if you're advanced user)
 - Lightweight (only around 120MB with dev dependencies pruned)
-
-Based on [discord-music-bot](https://github.com/iCrawl/discord-music-bot) and reworked from [jukebox](https://github.com/Hazmi35/jukebox)
